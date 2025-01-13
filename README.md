@@ -1,2 +1,2 @@
 # flask_practice
- experiments with flask
+ Experiments with flask based on [documentation](https://flask.palletsprojects.com/en/stable/)
